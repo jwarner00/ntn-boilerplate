@@ -1,6 +1,6 @@
 ---
 category: animals
-title: Test Animal submission
+title: Test Animal submission11
 description: This is a description!
 cover: /img/img_20160714_220227.jpg
 gallery:
